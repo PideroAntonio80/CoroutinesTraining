@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TrainingCoroutines</string>
+    <string name="activity_main_etUsername_hint">Username</string>
+    <string name="activity_main_etPassword_hint">Password</string>
+    <string name="activity_main_bSubmit_text">submit</string>
+</resources>
